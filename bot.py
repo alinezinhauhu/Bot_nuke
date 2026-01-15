@@ -8,7 +8,7 @@ intents.messages = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-GUILD_ID = 123456789012345678  # COLOQUE O ID DO SEU SERVIDOR
+GUILD_ID = 1461395635763806250  # COLOQUE O ID DO SEU SERVIDOR
 PROTECTED_CHANNELS = ["regras", "anuncios"]
 
 @bot.event
